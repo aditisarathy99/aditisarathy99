@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... coding 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... aditisarathy7@gmail.com
+- 📫 How to reach me ... aditisarathy77@gmail.com or aditisarathy@outlook.com
+- 
 
 <!---
 aditisarathy99/aditisarathy99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
